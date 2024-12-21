@@ -1,0 +1,8 @@
+D:\STEP\Network\ChatUDP\ChatUDP\bin\Debug\ChatUDP.exe.config
+D:\STEP\Network\ChatUDP\ChatUDP\bin\Debug\ChatUDP.exe
+D:\STEP\Network\ChatUDP\ChatUDP\bin\Debug\ChatUDP.pdb
+D:\STEP\Network\ChatUDP\ChatUDP\obj\Debug\ChatUDP.csproj.AssemblyReference.cache
+D:\STEP\Network\ChatUDP\ChatUDP\obj\Debug\ChatUDP.csproj.SuggestedBindingRedirects.cache
+D:\STEP\Network\ChatUDP\ChatUDP\obj\Debug\ChatUDP.csproj.CoreCompileInputs.cache
+D:\STEP\Network\ChatUDP\ChatUDP\obj\Debug\ChatUDP.exe
+D:\STEP\Network\ChatUDP\ChatUDP\obj\Debug\ChatUDP.pdb
